@@ -56,14 +56,18 @@ menu:
       name: About
       url: /about/
       weight: 1
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 2
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 2
+      weight: 3
     - identifier: letters
       name: Letters
       url: /letters/
-      weight: 3
+      weight: 4
 
 markup:
   highlight:
