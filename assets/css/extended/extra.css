@@ -1,0 +1,66 @@
+/* Base styles */
+body {
+  background-color: #FFFBF8 !important;
+  font-family: 'Nunito', sans-serif;
+  color: #4B3B40;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  color: #3E3E3E;
+}
+
+/* Logo */
+.logo {
+  max-height: 60px;
+  font-family: "Kalam";
+}
+.logo a {
+  font-weight: 700;
+  text-decoration: none;
+}
+.logo a:hover {
+  text-decoration: none;
+}
+
+/* Links */
+a {
+  color: #E07A7A;
+  text-decoration: none;
+}
+
+/* Navigation */
+nav ul li a {
+  color: #5A5A5A;
+}
+
+/* Home page title section */
+.first-entry .entry-header h1 {
+  font-size: 2.5rem;
+  color: #BF4F74;
+  font-family: "Kalam";
+  line-height: 1.45;
+}
+.home-info p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+}
+
+/* Code blocks */
+pre, code {
+  background-color: #FFEFEF;
+  border-radius: 6px;
+}
+
+/* Footer */
+footer {
+  font-size: 0.9rem;
+  color: #888;
+}
+
+/* Post list cards */
+article.post-entry {
+  background-color: #FBEBD9; /* Soft white for gentle contrast */
+  border-radius: 12px;
+  padding: 1.2rem;
+}

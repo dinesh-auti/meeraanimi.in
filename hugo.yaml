@@ -1,0 +1,83 @@
+baseURL: "https://meeraanimi.in/"
+title: "मीरा आणि मी"
+theme: "PaperMod"
+languageCode: "en-us"
+enableRobotsTXT: true
+enableEmoji: true
+canonifyURLs: true
+
+build:
+  writeStats: true
+  useResourceCacheWhen: always
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+# मीरा आणि मी
+params:
+  env: production
+  author: "Aai, and Baba"
+  description: "Our day to day life, our moments, mischief, and magic."
+  keywords: ["Meera", "Aai", "Baba", "Family", "Moments"]
+  mainSections: [posts]
+  defaultTheme: light
+  disableThemeToggle: true
+  homeInfoParams:
+    Title: "🌸 मीरा आणि मी - Meera ani mi"
+    Content: |
+      Welcome to our little world — a space where we, Aai, Baba, and Meera, gather our everyday joys and stories.
+      From playful mornings to quiet naps, giggles to first words — everything that makes our days magical lives here.
+      This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other.  
+      <br />
+      इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो.
+      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.
+
+      
+
+  socialIcons:
+    - name: "instagram"
+      url: "https://instagram.com/yourhandle"
+    - name: "email"
+      url: "mailto:you@example.com"
+
+  ShowReadingTime: true
+  ShowShareButtons: false
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowToc: false
+  hideFooter: false
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 1
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 2
+    - identifier: letters
+      name: Letters
+      url: /letters/
+      weight: 3
+
+markup:
+  highlight:
+    noClasses: false
+    style: github-dark
+  goldmark:
+    renderer:
+      unsafe: true  # allows raw HTML in markdown
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # Required for search via Fuse.js if added later
+
+taxonomies:
+  tag: "tags"
+  category: "categories"
