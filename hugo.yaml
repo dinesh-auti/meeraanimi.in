@@ -33,8 +33,6 @@ params:
       इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो.
       शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.
 
-      
-
   socialIcons:
     - name: "instagram"
       url: "https://instagram.com/yourhandle"
@@ -42,12 +40,15 @@ params:
       url: "mailto:you@example.com"
 
   ShowReadingTime: true
-  ShowShareButtons: false
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
+  ShowBreadcrumbs: true
+  ShowCodeCopyButtons: true
   ShowToc: false
-  hideFooter: false
+  assets:
+    disableHLJS: true
+    favicon: "/assets/images/favicons/favicon.ico"
+    favicon96x96: "/assets/images/favicons/favicon-96x96.png"
+    apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
+    safari_pinned_tab: "/assets/images/favicons/favicon-512x512.png"
 
 menu:
   main:
