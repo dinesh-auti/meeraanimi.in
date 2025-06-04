@@ -24,20 +24,19 @@ params:
   defaultTheme: light
   disableThemeToggle: true
   homeInfoParams:
-    Title: "🌸 मीरा आणि मी - Meera ani mi"
+    Title: "🌸 मीरा आणि मी"
     Content: |
-      Welcome to our little world — a space where we, Aai, Baba, and Meera, gather our everyday joys and stories.
+      Welcome to our little world मीरा आणि मी (Meera and Me) — a space where we, Aai, Baba, and Meera, gather our everyday joys and stories.
       From playful mornings to quiet naps, giggles to first words — everything that makes our days magical lives here.
-      This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other.  
-      <br />
+      This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other.
+      <br />  
       इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो.
-      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.
-
+      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे. 
   socialIcons:
-    - name: "instagram"
-      url: "https://instagram.com/yourhandle"
-    - name: "email"
-      url: "mailto:you@example.com"
+    - name: email
+      url: "mailto:auti.dinesh3[at]gmail[dot]com"
+    - name: "GitHub"
+      url: "https://github.com/dinesh-auti/meeraanimi.in"
 
   ShowReadingTime: true
   ShowBreadcrumbs: true

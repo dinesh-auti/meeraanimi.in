@@ -11,7 +11,7 @@ ShowToc: false
 मी (आई), बाबा, आणि आमची मीरा — आमच्या छोट्याशा जगामधील आठवणींच्या गाठी बांधत आहोत.
 हे सगळं तिच्यासाठी. आणि थोडंसं आमच्यासाठी.
 
-We are Aai (me) and Baba — two new-ish parents navigating the beautiful mess of early parenthood, one chai cup and cuddle at a time. And at the center of it all is Meera, our wide-eyed, 10-month-old spark of joy and mischief.
+We are **Aai** (me) and **Baba** — two new-ish parents navigating the beautiful mess of early parenthood, one chai cup and cuddle at a time. And at the center of it all is Meera, our wide-eyed, 10-month-old spark of joy and mischief.
 
 This space — *Meera ani Mi* — began as a quiet little idea: To write down the things we might forget, but don’t want to.
 
