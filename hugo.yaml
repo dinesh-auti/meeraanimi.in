@@ -5,6 +5,8 @@ languageCode: "en-us"
 enableRobotsTXT: true
 enableEmoji: true
 canonifyURLs: true
+minify:
+  minifyOutput: true
 
 build:
   writeStats: true
