@@ -5,6 +5,10 @@ body {
   color: #4B3B40;
 }
 
+.breadcrumbs {
+  margin-bottom: 0.8rem;
+}
+
 /* Headings */
 h1, h2, h3, h4 {
   color: #3E3E3E;

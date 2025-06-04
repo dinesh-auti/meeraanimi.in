@@ -69,6 +69,10 @@ menu:
       name: Letters
       url: /letters/
       weight: 4
+    - identifier: milestones
+      name: Milestones
+      url: /milestones/
+      weight: 5
 
 markup:
   highlight:
