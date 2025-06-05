@@ -30,10 +30,17 @@ params:
     Content: |
       Welcome to our little world मीरा आणि मी (Meera and Me) — a space where we, Aai, Baba, and Meera, gather our everyday joys and stories.
       From playful mornings to quiet naps, giggles to first words — everything that makes our days magical lives here.
-      This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other.
-      <br />  
-      इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो.
-      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.  
+      This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other. 
+      <br />
+      <br />
+      इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो. शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.
+      <br />
+      <br />
+      New here? Start with [About](/about/) — a peek into who we are. <br />
+      Want to read our story? Head to [Posts](/posts/). <br />
+      For something closer to the heart, visit [Letters to Meera](/letters/). <br />
+      Curious about our journey? [Milestones](/milestones/) captures the moments that shaped us. <br />
+      Browse through our [Archives](/archives/) to find all our stories, or explore by [Tags](/tags/) and [Categories](/categories/).
   socialIcons:
     - name: email
       url: "mailto:auti.dinesh3[at]gmail[dot]com"
