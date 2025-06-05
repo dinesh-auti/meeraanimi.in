@@ -24,8 +24,8 @@ fi
 today=$(date +"%y%m%d")
 slug=$(echo "$title" | tr '[:upper:]' '[:lower:]' | tr ' ' '-' | tr -cd '[:alnum:]-')
 
-if [ $kind = "til" ]; then
-    path="til/${today}-${slug}"
+if [ $kind = "letters" ]; then
+    path="letters/${today}-${slug}"
 else
     path="posts/${today}-${slug}"
 fi

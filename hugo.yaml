@@ -19,10 +19,10 @@ caches:
 # मीरा आणि मी
 params:
   env: production
-  author: "Aai, and Baba"
+  author: ["Aai, and Baba", "Aai", "Baba"]
   description: "Our day to day life, our moments, mischief, and magic."
   keywords: ["Meera", "Aai", "Baba", "Family", "Moments"]
-  mainSections: [posts]
+  mainSections: [posts, letters]
   defaultTheme: light
   disableThemeToggle: true
   homeInfoParams:
@@ -33,7 +33,7 @@ params:
       This is more than a blog — it’s a love letter to childhood, to parenthood, and to each other.
       <br />  
       इथे आपण — आई, बाबा आणि मीरा — आपल्या छोट्या छोट्या क्षणांची जपणूक करतो.
-      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे. 
+      शाळा नसलेल्या गोष्टी, पावसात भिजलेली दुपार, आणि झोपताना झालेले गोड गोंधळ — सगळं इथे साठवून ठेवलेलं आहे.  
   socialIcons:
     - name: email
       url: "mailto:auti.dinesh3[at]gmail[dot]com"
@@ -73,6 +73,12 @@ menu:
       name: Milestones
       url: /milestones/
       weight: 5
+    
+  footer:
+    - identifier: privacy
+      name: Privacy Policy
+      url: /privacy/
+      weight: 1
 
 markup:
   highlight:

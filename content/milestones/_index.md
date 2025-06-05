@@ -95,30 +95,48 @@ h1.title, .page-title, h1 {
 <div class="timeline">
   <div class="timeline-line"></div>
 
-  <div class="milestone">
+  <!-- <div class="milestone">
     <div class="milestone-icon">🎂</div>
     <div class="milestone-content">
       <h3>One Year of Magic</h3>
       <time>July 2025</time>
       <p>We celebrated your first birthday, full of giggles and cake smears.</p>
     </div>
-  </div>
-
-  <div class="milestone">
-    <div class="milestone-icon">🧳</div>
-    <div class="milestone-content">
-      <h3>Travel Bug</h3>
-      <time>December 2024</time>
-      <p>Your first trip — and you made friends in every train coach.</p>
-    </div>
-  </div>
+  </div> -->
 
   <div class="milestone">
     <div class="milestone-icon">🗣️</div>
     <div class="milestone-content">
       <h3>Baba? Aai?</h3>
-      <time>October 2024</time>
-      <p>You began calling out to us — and we melted into puddles.</p>
+      <time>May 2025</time>
+      <p>You began calling out to Baba — and we melted into puddles.</p>
+    </div>
+  </div>
+
+  <div class="milestone">
+    <div class="milestone-icon">🚄</div>
+    <div class="milestone-content">
+      <h3>First Train Ride</h3>
+      <time>Dec 2024</time>
+      <p>Aurangabad to Mumbai - You kept staring at the TC 😂</p>
+    </div>
+  </div>
+
+  <div class="milestone">
+    <div class="milestone-icon">🪔</div>
+    <div class="milestone-content">
+      <h3>First Diwali</h3>
+      <time>Nov 2024</time>
+      <p>Best Diwali present ever. लक्ष्मी आली घरी… तू आलीस!</p>
+    </div>
+  </div>
+
+  <div class="milestone">
+    <div class="milestone-icon">🇮🇳</div>
+    <div class="milestone-content">
+      <h3>Travel Bug</h3>
+      <time>September 2024</time>
+      <p>Your first trip across the atlantic ocean to India.</p>
     </div>
   </div>
 
