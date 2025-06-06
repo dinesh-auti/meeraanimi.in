@@ -37,10 +37,9 @@ params:
       <br />
       <br />
       New here? Start with [About](/about/) — a peek into who we are. <br />
-      Want to read our story? Head to [Posts](/posts/). <br />
-      For something closer to the heart, visit [Letters to Meera](/letters/). <br />
+      Want to read our story? Head to [Posts](/posts/). For something closer to the heart, visit [Letters to Meera](/letters/). <br />
       Curious about our journey? [Milestones](/milestones/) captures the moments that shaped us. <br />
-      Browse through our [Archives](/archives/) to find all our stories, or explore by [Tags](/tags/) and [Categories](/categories/).
+      Explore by [Tags](/tags/) and [Categories](/categories/).
   socialIcons:
     - name: email
       url: "mailto:auti.dinesh3[at]gmail[dot]com"
