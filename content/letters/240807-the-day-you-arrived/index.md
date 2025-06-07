@@ -1,8 +1,8 @@
 ---
-date: "2025-06-05T22:02:11+02:00"
+date: "2024-08-07T22:02:11+02:00"
 title: "The Day You Arrived"
 author: "Baba"
-tags: ["birth", "firsts", "love", "baba", "#babaAniMeera"]
+tags: ["birth", "firsts", "love", "baba", "babaAniMeera"]
 categories: ["letters"]
 ---
 
