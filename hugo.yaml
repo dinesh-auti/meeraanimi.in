@@ -57,6 +57,11 @@ params:
     apple_touch_icon: "/assets/images/favicons/apple-touch-icon.png"
     safari_pinned_tab: "/assets/images/favicons/favicon-512x512.png"
 
+  umami:
+    enabled: true
+    websiteId: "f3a1896f-2166-4000-b8e2-9e61de8e646e"
+    jsLocation: "https://cloud.umami.is/script.js"
+
 menu:
   main:
     - identifier: about
