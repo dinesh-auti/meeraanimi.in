@@ -9,7 +9,7 @@ categories: ["recipes-for-meera"]
 बियांचा पौष्टिक चूर्ण  
 
 **Ingredients (साहित्य):**
-- २ चमचे सफेद तीळ (2 tbsp white sesame seeds)
+- २ चमचे पांढरे तीळ (2 tbsp white sesame seeds)
 - २ चमचे काळे तीळ (2 tbsp black sesame seeds)
 - २ चमचे सूर्यफूल बिया (2 tbsp sunflower seeds)
 - २ चमचे भोपळ्याच्या बिया (2 tbsp pumpkin seeds)

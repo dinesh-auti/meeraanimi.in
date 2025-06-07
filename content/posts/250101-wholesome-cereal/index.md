@@ -1,6 +1,6 @@
 ---
 date: "2025-01-01T17:09:12+02:00"
-title: "Wholesome Cerelac"
+title: "Wholesome Cereal"
 author: "Aai"
 tags: ["baby-food", "homemade"]
 categories: ["recipes-for-meera"]
